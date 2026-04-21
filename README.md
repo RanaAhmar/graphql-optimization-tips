@@ -9,6 +9,7 @@ Scale your GraphQL API without the performance hit. DataLoader patterns and sche
 
 
 
+
 ---
 
 ## 🚀 Discover More from Stackaura
@@ -26,4 +27,5 @@ If you found this tool useful, check out our other high-performance web utilitie
 - **Author:** [Ahmar Hussain](https://github.com/RanaAhmar)
 
 ---
+
 
